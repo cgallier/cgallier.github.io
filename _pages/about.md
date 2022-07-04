@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am assistant professor at the [Free University of Bozen-Bolzano](https://www.unibz.it/en/faculties/economics-management/). 
-Besides, I am junior research associate at the [ZEW -- Leibniz Centre for European Economic Research](https://www.zew.de/). 
+I am an assistant professor at the [Free University of Bozen-Bolzano](https://www.unibz.it/en/faculties/economics-management/). 
+Besides, I am a junior research associate at the [ZEW -- Leibniz Centre for European Economic Research](https://www.zew.de/). 
 
 I use economic experiments to explore cooperation problems. My aim is to improve our understanding of success and failure 
 in human cooperation and use this knowledge to make policy better. Tensions between individual and collective interests 
@@ -17,4 +17,4 @@ cause some of our most pressing challenges. Most of the time I am working on env
 environmental, and experimental economics to investigate how to design, testbed, and implement institutions to solve the underlying
 incentive problems. 
 
-Please feel free to contact me at the links provided at this website.
+Please feel free to contact me at the links provided on this website.
