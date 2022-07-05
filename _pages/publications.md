@@ -12,7 +12,7 @@ Economic Behavior & Organization (forthcoming)*. With Marius Alt.
 [Paper](https://www.google.com/url?q=https%3A%2F%2Fftp.zew.de%2Fpub%2Fzew-docs%2Fdp%2Fdp21010.pdf&sa=D) 
 
 **The ratchet effect in social dilemmas**. *Journal of Economic Behavior & Organization* 186, 2021, 251 -- 268. 
-With Bodo Sturm. [Slides](/files/Ratchet_I_Slides.pdf). [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0167268121001220)
+With Bodo Sturm. [Code](https://github.com/cgallier/GS_21). [Slides](/files/Ratchet_I_Slides.pdf). [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0167268121001220)
 
 **Democracy and compliance in public goods games**. *European Economic Review* 121, 2020, 103346. 
 [Paper](https://doi.org/10.1016/j.euroecorev.2019.103346)
