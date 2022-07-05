@@ -50,7 +50,7 @@ Network**. With Martin Kesternich, Andreas Löschel, and Israel Waichman. ZEW Di
 [Paper](https://www.google.com/url?q=https%3A%2F%2Fftp.zew.de%2Fpub%2Fzew-docs%2Fdp%2Fdp17071.pdf&sa=D)
 
 
-## Slected work in progress
+## Selected work in progress
 **Collective minimum contributions to address the ratchet effect in social dilemmas**. With Marius Alt, Martin
 Kesternich, and Bodo Sturm. Status: *first results*. [Slides](/files/Ratchet_II.pdf)
 
