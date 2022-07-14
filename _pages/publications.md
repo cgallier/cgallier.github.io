@@ -8,8 +8,8 @@ author_profile: true
 ## Publications
 
 **Incentives and intertemporal behavioral spillovers: A two-period experiment on charitable giving**. *Journal of 
-Economic Behavior & Organization (forthcoming)*. With Marius Alt.
-[Paper](https://www.google.com/url?q=https%3A%2F%2Fftp.zew.de%2Fpub%2Fzew-docs%2Fdp%2Fdp21010.pdf&sa=D) 
+Economic Behavior & Organization* 200, 2022, 959 -- 972. With Marius Alt.
+[Paper](https://www.sciencedirect.com/science/article/pii/S0167268122001895) 
 
 **The ratchet effect in social dilemmas**. *Journal of Economic Behavior & Organization* 186, 2021, 251 -- 268. 
 With Bodo Sturm. [Code](https://github.com/cgallier/GS_21). [Slides](/files/Ratchet_I_Slides.pdf). [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0167268121001220)
