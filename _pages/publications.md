@@ -51,8 +51,8 @@ Network**. With Martin Kesternich, Andreas Löschel, and Israel Waichman. ZEW Di
 
 
 ## Selected work in progress
-**Collective minimum contributions to address the ratchet effect in social dilemmas**. With Marius Alt, Martin
-Kesternich, and Bodo Sturm. Status: *first results*. [Slides](/files/Ratchet_II.pdf)
+**Collective minimum contributions to counteract the ratchet effect in the private provision of public goods**. With Marius Alt, Martin
+Kesternich, and Bodo Sturm. Status: *draft*. [Slides](/files/Ratchet_II.pdf)
 
 **On the provision of global public goods: A multi-country experiment**. With Martin Kesternich, Andreas Löschel, and 
 Israel Waichman. Status: *draft*
