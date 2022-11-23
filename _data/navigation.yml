@@ -6,17 +6,19 @@ main:
   - title: "Research"
     url: /publications/
 
-   #- title: "Teaching"
-  #  url: /teaching/
+  - title: "Teaching"
+    url: /teaching/
     
-  #- title: "Portfolio"
-  #  url: /portfolio/
+ # - title: "Portfolio"
+ #   url: /portfolio/
         
   #- title: "Blog Posts"
   #  url: /year-archive/
     
   - title: "Vita"
-    url: /files/CV.pdf
+    url: /cv/
+
+  #  /files/CV.pdf
     
   #- title: "Guide"
   #  url: /markdown/
