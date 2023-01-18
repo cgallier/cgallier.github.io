@@ -42,8 +42,8 @@ Martin Kesternich and Bodo Sturm. [Paper](https://doi.org/10.1007/s10640-016-002
 
 ## Working papers
 **Collective minimum contributions to counteract the ratchet effect in the private provision of public goods**. With Marius Alt, Martin
-Kesternich, and Bodo Sturm. BEMPS -- Bozen Economics & Management Paper Series No. 96/2022. 
-[Slides](/files/Ratchet_II.pdf). [Paper](https://repec.unibz.it/bemps96.pdf)
+Kesternich, and Bodo Sturm. BEMPS -- Bozen Economics & Management Paper Series No. 96/2022. Revise and resubmit at 
+*Journal of Environmental Economics and Management*. [Slides](/files/Ratchet_II.pdf). [Paper](https://repec.unibz.it/bemps96.pdf)
 
 **Inter-charity competition under spatial differentiation: Sorting, crowding, and spillovers**. With Timo Goeschl, Martin
 Kesternich, Johannes Lohse, Christiane Reif, and Daniel Römer. ZEW Discussion Paper No. 19-039. [Slides](/files/Charity_Competition.pdf).
@@ -54,12 +54,14 @@ Network**. With Martin Kesternich, Andreas Löschel, and Israel Waichman. ZEW Di
 [Paper](https://www.google.com/url?q=https%3A%2F%2Fftp.zew.de%2Fpub%2Fzew-docs%2Fdp%2Fdp17071.pdf&sa=D)
 
 ## Book chapters
-**The choice of institutions to promote cooperation in the lab**. With Astrid Dannenberg. *Accepted*. In Behavioral Economics and the 
-Environment edited by A. Bucciol, A. Tavoni, and M. Veronesi, Routledge.
+**The choice of institutions to promote cooperation in the lab**. With Astrid Dannenberg. 2023. In Behavioral Economics and the 
+Environment: A Research Companion edited by A. Bucciol, A. Tavoni, and M. Veronesi, Routledge.
 
 ## Selected work in progress
 **On the provision of global public goods: A multi-country experiment**. With Martin Kesternich, Andreas Löschel, and 
 Israel Waichman. Status: *draft*
+
+
 
 
 
