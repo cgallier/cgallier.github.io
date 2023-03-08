@@ -66,10 +66,3 @@ Status: *data collection*
 
 **On the provision of global public goods: A multi-country experiment**. With Martin Kesternich, Andreas Löschel, and 
 Israel Waichman. Status: *draft*
-
-
-
-
-
-
-
