@@ -18,7 +18,7 @@ This is just a brief list of courses I am teaching since arriving at the Free Un
 
 <ul>
     <li>I was teaching <b>27022 Industrial Economics</b></li> 
-    <li>I was co-teaching <b>31003 Regional Development and Sustainability</b></li>
+    <li>I was teaching <b>31003 Regional Development and Sustainability</b></li>
 </ul>
 
 
