@@ -59,7 +59,7 @@ Environment: A Research Companion edited by A. Bucciol, A. Tavoni, and M. Verone
 
 ## Selected work in progress
 **Little by little: Incremental voluntary contributions to a public good**. With Axel Ockenfels and Bodo Sturm. 
-Status: *data collection*
+Status: *analysis*
 
 **Cooperation, inequality, and equity in the voluntary provision of public goods**. With Lara Bartels and Achim Hagen. Status: 
 *design*
