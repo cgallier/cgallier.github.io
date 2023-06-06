@@ -58,7 +58,7 @@ Network**. With Martin Kesternich, Andreas Löschel, and Israel Waichman. ZEW Di
 Environment: A Research Companion edited by A. Bucciol, A. Tavoni, and M. Veronesi, Routledge.
 
 ## Selected work in progress
-**Little by little: Incremental voluntary contributions to a public good**. With Axel Ockenfels and Bodo Sturm. 
+**Little by little: Dynamic incentives and incremental contributions to a public good**. With Axel Ockenfels and Bodo Sturm. 
 Status: *analysis*. [Slides](/files/Ratchet_III.pdf).
 
 **Cooperation, inequality, and equity in the voluntary provision of public goods**. With Lara Bartels and Achim Hagen. Status: 
