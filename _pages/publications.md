@@ -7,14 +7,16 @@ author_profile: true
 
 ## Publications
 
+(I have marked my two favorite papers with &#11088;)
+
 **Incentives and intertemporal behavioral spillovers: A two-period experiment on charitable giving**. *Journal of 
 Economic Behavior & Organization* 200, 2022, 959 -- 972. With Marius Alt.
 [Paper](https://www.sciencedirect.com/science/article/pii/S0167268122001895) 
 
-**The ratchet effect in social dilemmas**. *Journal of Economic Behavior & Organization* 186, 2021, 251 -- 268. 
+&#11088; **The ratchet effect in social dilemmas**. *Journal of Economic Behavior & Organization* 186, 2021, 251 -- 268. 
 With Bodo Sturm. [Code](https://github.com/cgallier/GS_21). [Slides](/files/Ratchet_I_Slides.pdf). [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0167268121001220)
 
-**Democracy and compliance in public goods games**. *European Economic Review* 121, 2020, 103346. 
+&#11088; **Democracy and compliance in public goods games**. *European Economic Review* 121, 2020, 103346. 
 [Paper](https://doi.org/10.1016/j.euroecorev.2019.103346)
 
 **The choice of institutions to solve cooperation problems: A survey of experimental research**. *Experimental Economics* 23,
