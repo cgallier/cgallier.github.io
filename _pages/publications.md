@@ -46,8 +46,8 @@ Martin Kesternich and Bodo Sturm. [Paper](https://doi.org/10.1007/s10640-016-002
 Kesternich, and Bodo Sturm. BEMPS -- Bozen Economics & Management Paper Series No. 96/2022. Conditionally accepted at 
 *Journal of Environmental Economics and Management*. [Slides](/files/Ratchet_II.pdf). [Paper](https://repec.unibz.it/bemps96.pdf)
 
-**Inter-charity competition under spatial differentiation: Sorting, crowding, and spillovers**. With Timo Goeschl, Martin
-Kesternich, Johannes Lohse, Christiane Reif, and Daniel Römer. ZEW Discussion Paper No. 19-039. Revise and resubmit at 
+&#128521; **Inter-charity competition under spatial differentiation: Sorting, crowding, and spillovers**. With Timo Goeschl, Martin
+Kesternich, Johannes Lohse, Christiane Reif, and Daniel Römer. ZEW Discussion Paper No. 19-039. Conditionally accepted at 
 *Journal of Economic Behavior & Organization* [Slides](/files/Charity_Competition.pdf).
 [Paper](https://www.google.com/url?q=https%3A%2F%2Fftp.zew.de%2Fpub%2Fzew-docs%2Fdp%2Fdp19039.pdf&sa=D)
 
