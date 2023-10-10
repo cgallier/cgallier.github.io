@@ -9,7 +9,7 @@ author_profile: true
 
 (I have marked my two favorite papers with &#11088;)
 
-&#128521; **Inter-charity competition under spatial differentiation: Sorting, crowding, and spillovers**. *Journal of 
+&#128513; **Inter-charity competition under spatial differentiation: Sorting, crowding, and spillovers**. *Journal of 
 Economic Behavior & Organization*, accepted. With Timo Goeschl, Martin Kesternich, Johannes Lohse, Christiane Reif, 
 and Daniel Römer. [Slides](/files/Charity_Competition.pdf). [Paper](https://www.google.com/url?q=https%3A%2F%2Fftp.zew.de%2Fpub%2Fzew-docs%2Fdp%2Fdp19039.pdf&sa=D)
 
