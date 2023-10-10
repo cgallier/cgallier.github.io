@@ -9,6 +9,10 @@ author_profile: true
 
 (I have marked my two favorite papers with &#11088;)
 
+&#128521; **Inter-charity competition under spatial differentiation: Sorting, crowding, and spillovers**. *Journal of 
+Economic Behavior & Organization*, accepted. With Timo Goeschl, Martin Kesternich, Johannes Lohse, Christiane Reif, 
+and Daniel Römer. [Slides](/files/Charity_Competition.pdf). [Paper](https://www.google.com/url?q=https%3A%2F%2Fftp.zew.de%2Fpub%2Fzew-docs%2Fdp%2Fdp19039.pdf&sa=D)
+
 **Incentives and intertemporal behavioral spillovers: A two-period experiment on charitable giving**. *Journal of 
 Economic Behavior & Organization* 200, 2022, 959 -- 972. With Marius Alt.
 [Paper](https://www.sciencedirect.com/science/article/pii/S0167268122001895) 
@@ -45,11 +49,6 @@ Martin Kesternich and Bodo Sturm. [Paper](https://doi.org/10.1007/s10640-016-002
 &#128521; **Collective minimum contributions to counteract the ratchet effect in the private provision of public goods**. With Marius Alt, Martin
 Kesternich, and Bodo Sturm. BEMPS -- Bozen Economics & Management Paper Series No. 96/2022. Conditionally accepted at 
 *Journal of Environmental Economics and Management*. [Slides](/files/Ratchet_II.pdf). [Paper](https://repec.unibz.it/bemps96.pdf)
-
-&#128521; **Inter-charity competition under spatial differentiation: Sorting, crowding, and spillovers**. With Timo Goeschl, Martin
-Kesternich, Johannes Lohse, Christiane Reif, and Daniel Römer. ZEW Discussion Paper No. 19-039. Conditionally accepted at 
-*Journal of Economic Behavior & Organization* [Slides](/files/Charity_Competition.pdf).
-[Paper](https://www.google.com/url?q=https%3A%2F%2Fftp.zew.de%2Fpub%2Fzew-docs%2Fdp%2Fdp19039.pdf&sa=D)
 
 **Ratchet up or down? An experimental investigation of global public good provision in the United Nations Youth Associations
 Network**. With Martin Kesternich, Andreas Löschel, and Israel Waichman. ZEW Discussion Paper No. 17-071.
