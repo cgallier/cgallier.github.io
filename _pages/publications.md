@@ -9,7 +9,11 @@ author_profile: true
 
 (I have marked my two favorite papers with &#11088;)
 
-&#128513; **Inter-charity competition under spatial differentiation: Sorting, crowding, and spillovers**. *Journal of 
+&#128513; **Collective minimum contributions to counteract the ratchet effect in the private provision of public goods**. 
+*Journal of Environmental Economics and Management*, accepted. With Marius Alt, Martin Kesternich, and Bodo Sturm.
+[Slides](/files/Ratchet_II.pdf). [Paper](https://repec.unibz.it/bemps96.pdf)
+
+**Inter-charity competition under spatial differentiation: Sorting, crowding, and spillovers**. *Journal of 
 Economic Behavior & Organization*, accepted. With Timo Goeschl, Martin Kesternich, Johannes Lohse, Christiane Reif, 
 and Daniel Römer. [Slides](/files/Charity_Competition.pdf). [Paper](https://www.google.com/url?q=https%3A%2F%2Fftp.zew.de%2Fpub%2Fzew-docs%2Fdp%2Fdp19039.pdf&sa=D)
 
@@ -46,10 +50,6 @@ Martin Kesternich and Bodo Sturm. [Paper](https://doi.org/10.1007/s10640-016-002
 21, 2014, 846-851. With Andreas Löschel and Bodo Sturm. [Paper](https://doi.org/10.1080/13504851.2014.892194) 
 
 ## Working papers
-&#128521; **Collective minimum contributions to counteract the ratchet effect in the private provision of public goods**. With Marius Alt, Martin
-Kesternich, and Bodo Sturm. BEMPS -- Bozen Economics & Management Paper Series No. 96/2022. Conditionally accepted at 
-*Journal of Environmental Economics and Management*. [Slides](/files/Ratchet_II.pdf). [Paper](https://repec.unibz.it/bemps96.pdf)
-
 **Ratchet up or down? An experimental investigation of global public good provision in the United Nations Youth Associations
 Network**. With Martin Kesternich, Andreas Löschel, and Israel Waichman. ZEW Discussion Paper No. 17-071.
 [Paper](https://www.google.com/url?q=https%3A%2F%2Fftp.zew.de%2Fpub%2Fzew-docs%2Fdp%2Fdp17071.pdf&sa=D)
@@ -60,7 +60,7 @@ Environment: A Research Companion edited by A. Bucciol, A. Tavoni, and M. Verone
 
 ## Selected work in progress
 **More frequent commitments promote cooperation, ratcheting does not**. With Axel Ockenfels and Bodo Sturm. 
-Status: *analysis*. [Slides](/files/Ratchet_III.pdf).
+Status: *darft*. [Slides](/files/Ratchet_III.pdf).
 
 **Cooperation, inequality, and equity in the voluntary provision of public goods**. With Lara Bartels and Achim Hagen. Status: 
 *design*
