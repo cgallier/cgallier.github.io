@@ -10,12 +10,12 @@ author_profile: true
 (I have marked my two favorite papers with &#11088;)
 
 &#128513; **Collective minimum contributions to counteract the ratchet effect in the private provision of public goods**. 
-*Journal of Environmental Economics and Management*, accepted. With Marius Alt, Martin Kesternich, and Bodo Sturm.
-[Slides](/files/Ratchet_II.pdf). [Paper](https://repec.unibz.it/bemps96.pdf)
+*Journal of Environmental Economics and Management*, 2023, 102895. With Marius Alt, Martin Kesternich, and Bodo Sturm.
+[Slides](/files/Ratchet_II.pdf). [Paper](https://doi.org/10.1016/j.jeem.2023.102895)
 
 **Inter-charity competition under spatial differentiation: Sorting, crowding, and spillovers**. *Journal of 
-Economic Behavior & Organization*, accepted. With Timo Goeschl, Martin Kesternich, Johannes Lohse, Christiane Reif, 
-and Daniel Römer. [Slides](/files/Charity_Competition.pdf). [Paper](https://www.google.com/url?q=https%3A%2F%2Fftp.zew.de%2Fpub%2Fzew-docs%2Fdp%2Fdp19039.pdf&sa=D)
+Economic Behavior & Organization*, 216, 2023, 457-468. With Timo Goeschl, Martin Kesternich, Johannes Lohse, Christiane Reif, 
+and Daniel Römer. [Slides](/files/Charity_Competition.pdf). [Paper](https://doi.org/10.1016/j.jebo.2023.10.013)
 
 **Incentives and intertemporal behavioral spillovers: A two-period experiment on charitable giving**. *Journal of 
 Economic Behavior & Organization* 200, 2022, 959 -- 972. With Marius Alt.
