@@ -60,7 +60,7 @@ Environment: A Research Companion edited by A. Bucciol, A. Tavoni, and M. Verone
 
 ## Selected work in progress
 **More frequent commitments promote cooperation, ratcheting does not**. w/ Axel Ockenfels and Bodo Sturm. 
-Status: *submitted*. [Slides](/files/Ratchet_III.pdf).
+Status: *submitted*. [Slides](/files/Ratchet_III_v1.pdf).
 
 **On the provision of global public goods: A multi-country experiment**. w/ Martin Kesternich, Andreas Löschel, and 
 Israel Waichman. Status: *draft*
