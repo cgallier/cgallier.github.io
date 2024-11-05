@@ -50,6 +50,9 @@ Martin Kesternich and Bodo Sturm. [Paper](https://doi.org/10.1007/s10640-016-002
 21, 2014, 846-851. w/ Andreas Löschel and Bodo Sturm. [Paper](https://doi.org/10.1080/13504851.2014.892194) 
 
 ## Working papers
+**More frequent commitments promote cooperation, ratcheting does not**. w/ Axel Ockenfels and Bodo Sturm. ZEW Discussion
+Paper No. 24-065. [Paper](/files/paper4.pdf). [Policy Brief](/files/paper4_PB.pdf)
+
 **Ratchet up or down? An experimental investigation of global public good provision in the United Nations Youth Associations
 Network**. w/ Martin Kesternich, Andreas Löschel, and Israel Waichman. ZEW Discussion Paper No. 17-071.
 [Paper](https://www.google.com/url?q=https%3A%2F%2Fftp.zew.de%2Fpub%2Fzew-docs%2Fdp%2Fdp17071.pdf&sa=D)
@@ -65,7 +68,9 @@ Status: *submitted*. [Slides](/files/Ratchet_III_v1.pdf).
 **On the provision of global public goods: A multi-country experiment**. w/ Martin Kesternich, Andreas Löschel, and 
 Israel Waichman. Status: *draft*
 
-**Cooperation, inequality, and equity in the voluntary provision of public goods**. w/ Lara Bartels and Achim Hagen. Status: 
-*design*
+**Incremental contributions in the short-, medium-, and long-run**. w/ Axel Ockenfels and Bodo Sturm. Status: *design*
 
 **Social viscosity**. w/ Eugenio Levi. Status: *design*
+
+**Cooperation, inequality, and equity in the voluntary provision of public goods**. w/ Lara Bartels and Achim Hagen. Status: 
+*design*
