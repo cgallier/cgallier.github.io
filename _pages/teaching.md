@@ -7,6 +7,11 @@ author_profile: true
 
 This is just a brief list of courses I am teaching since arriving at the Free University of Bozen-Bolzano.
 
+**During fall / winter 24/25**:
+<ul>
+    <li>I am teaching <b>27022 Industrial Economics</b></li>
+</ul>
+
 **During spring / summer 24**:
 <ul>
     <li>I am teaching <b>27200 Environmental and Resource Economics</b></li>
