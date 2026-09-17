@@ -8,14 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor at the [Free University of Bozen-Bolzano](https://www.unibz.it/en/faculties/economics-management/). 
-Besides, I am a junior research associate at the [ZEW -- Leibniz Centre for European Economic Research](https://www.zew.de/). 
+I am professor of economics & behavioral economics at [Ingolstadt University of Applied Sciences](https://www.thi.de/en/). 
+Besides, I am research fellow at the [Competence Centre for Sustainability](https://www.unibz.it/en/home/research/competence-centre-economic-ecological-social-sustainability) 
+at the [Free University of Bozen-Bolzano](https://www.unibz.it/en/faculties/economics-management/) and junior research associate at the [ZEW -- Leibniz Centre for European Economic Research](https://www.zew.de/) . 
 
-I use economic experiments to explore cooperation problems. My aim is to improve our understanding of success and failure 
-in human cooperation and use this knowledge to make policy better. Tensions between individual and collective interests 
-cause some of our most pressing challenges. Most of the time I am working on environmental problems. I combine behavioral,
-environmental, and experimental economics to investigate how to design, testbed, and implement institutions to solve the underlying
-incentive problems. 
+I use economic experiments to explore cooperation problems. Some of our most pressing societal challenges are exactly 
+such problems, rooted in the tension between individual and collective interests. My goal is to deepen our understanding
+of what makes cooperation succeed or fail and turn that knowledge into better policy. Most of my work focuses on 
+environmental problems, where I combine behavioral, environmental, and experimental economics to explore how institutions
+can be designed, testbedded, and implemented to resolve the underlying incentive problems.
 
 Please feel free to contact me at the links provided on this website.
 
