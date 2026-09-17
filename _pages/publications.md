@@ -11,7 +11,7 @@ author_profile: true
 
 
 &#11088; **More frequent commitments promote cooperation, ratcheting does not**. *Journal of Economic Behavior & Organization*, 
-2026, 107559. w/ Axel Ockenfels and Bodo Sturm. [Slides](/files/Ratchet_III_v2.pdf). [Policy Brief](/files/paper4_PB.pdf). [Paper](/files/Gallier_2026.pdf).
+2026, 107559. w/ Axel Ockenfels and Bodo Sturm. [Policy Brief](/files/paper4_PB.pdf). [Paper](/files/Gallier_2026.pdf).
 
  **Collective minimum contributions to counteract the ratchet effect in the private provision of public goods**. 
 *Journal of Environmental Economics and Management*, 2023, 102895. w/ Marius Alt, Martin Kesternich, and Bodo Sturm.
@@ -54,8 +54,6 @@ Martin Kesternich and Bodo Sturm. [Paper](https://doi.org/10.1007/s10640-016-002
 21, 2014, 846-851. w/ Andreas Löschel and Bodo Sturm. [Paper](https://doi.org/10.1080/13504851.2014.892194) 
 
 ## Working papers
-&#11088; **More frequent commitments promote cooperation, ratcheting does not**. w/ Axel Ockenfels and Bodo Sturm. ZEW Discussion
-Paper No. 24-065. [Slides](/files/Ratchet_III_v2.pdf). [Paper](/files/paper4.pdf). [Policy Brief](/files/paper4_PB.pdf)
 
 **Ratchet up or down? An experimental investigation of global public good provision in the United Nations Youth Associations
 Network**. w/ Martin Kesternich, Andreas Löschel, and Israel Waichman. ZEW Discussion Paper No. 17-071.
