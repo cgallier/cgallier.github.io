@@ -67,8 +67,6 @@ Environment: A Research Companion edited by A. Bucciol, A. Tavoni, and M. Verone
 **On the provision of global public goods: A multi-country experiment**. w/ Martin Kesternich, Andreas Löschel, and 
 Israel Waichman. Status: *draft*
 
-**Incremental contributions in the short-, medium-, and long-run**. w/ Axel Ockenfels and Bodo Sturm. Status: *design*
-
 **Social viscosity**. w/ Eugenio Levi. Status: *design*
 
 **Cooperation, inequality, and equity in the voluntary provision of public goods**. w/ Lara Bartels and Achim Hagen. Status: 

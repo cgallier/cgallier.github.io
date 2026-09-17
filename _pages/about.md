@@ -19,9 +19,12 @@ incentive problems.
 
 Please feel free to contact me at the links provided on this website.
 
-test 
 ## News
 
-&#128276; We have written a <b>policy brief</b> with our thoughts on the next round of climate negotiations @ COP29 in Baku. Have a [look](/files/paper4_PB.pdf)
+&#128276; New publication in the Journal of Economic Behavior & Organization w/ Axel Ockenfels & Bodo Sturm. 
+Have a [look](https://doi.org/10.1016/j.jebo.2026.107559)
+
+&#128276; We have written a <b>policy brief</b> with our thoughts on the next round of climate negotiations @ COP29 in Baku. 
+Have a [look](/files/paper4_PB.pdf)
 
 &#128276; Our new <b>working paper</b> ist out: [More frequent commitments promote cooperation, ratcheting does not](/files/paper4.pdf)
