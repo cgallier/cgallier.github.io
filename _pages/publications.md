@@ -7,9 +7,9 @@ author_profile: true
 
 ## Publications
 
-(I have marked my two favorite papers with &#11088;)
+(I have marked my three favorite papers with &#11088;)
 
-**Collective minimum contributions to counteract the ratchet effect in the private provision of public goods**. 
+&#11088; **Collective minimum contributions to counteract the ratchet effect in the private provision of public goods**. 
 *Journal of Environmental Economics and Management*, 2023, 102895. w/ Marius Alt, Martin Kesternich, and Bodo Sturm.
 [Slides](/files/Ratchet_II.pdf). [Paper](https://doi.org/10.1016/j.jeem.2023.102895)
 
